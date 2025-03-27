@@ -70,3 +70,9 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [TryHackMe](https://tryhackme.com)
+
+## 📚 Recommended Reading
+
+- *The Web Application Hacker's Handbook* by Dafydd Stuttard & Marcus Pinto
+- *Secure Coding in C and C++* by Robert Seacord
+- OWASP Top 10 Reports (Web, API, Mobile)
