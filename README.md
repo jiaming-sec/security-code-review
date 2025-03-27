@@ -44,3 +44,8 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 
 - [ ] Are all user inputs validated and sanitized?
 - [ ] Are parameterized queries used to prevent SQL Injection?
+
+## 🔍 Logging and Error Handling
+
+- [ ] Are detailed error messages avoided in production?
+- [ ] Is sensitive information excluded from logs?
