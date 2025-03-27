@@ -49,3 +49,10 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 
 - [ ] Are detailed error messages avoided in production?
 - [ ] Is sensitive information excluded from logs?
+
+## 🧪 Code Quality & Dependencies
+
+- [ ] Are static code analysis tools used?
+- [ ] Are third-party dependencies regularly updated and scanned?
+
+> Adapt this list based on your development stack and security needs.
