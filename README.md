@@ -64,3 +64,9 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 - **Semgrep** – Lightweight, powerful static analysis for many languages.
 - **Bandit** – Python-focused static analyzer to find common security issues.
 - **FindSecBugs** – Java static analysis plugin for SpotBugs.
+
+## 🧠 Learning Platforms
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [TryHackMe](https://tryhackme.com)
