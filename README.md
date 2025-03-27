@@ -39,3 +39,8 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 
 - [ ] Are role-based access controls implemented?
 - [ ] Is sensitive functionality protected from unauthorized users?
+
+## 🛡️ Input Validation
+
+- [ ] Are all user inputs validated and sanitized?
+- [ ] Are parameterized queries used to prevent SQL Injection?
