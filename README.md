@@ -21,4 +21,7 @@ This repository contains examples, checklists, and writeups for conducting secur
 - [SonarQube](https://www.sonarqube.org)
 - [FindSecBugs](https://find-sec-bugs.github.io)
 
+## 💡 Resources
+
+Based on the [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) and [OWASP Code Review Guide](https://owasp.org/www-project-code-review/).
 
