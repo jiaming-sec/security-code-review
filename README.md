@@ -26,3 +26,11 @@ This repository contains examples, checklists, and writeups for conducting secur
 Based on the [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) and [OWASP Code Review Guide](https://owasp.org/www-project-code-review/).
 
 # ✅ OWASP Secure Code Review Checklist
+
+This checklist is designed to guide manual secure code reviews and is aligned with OWASP recommendations.
+
+## 🔐 Authentication
+
+- [ ] Are strong password policies enforced?
+- [ ] Is MFA (Multi-Factor Authentication) supported?
+- [ ] Are credentials stored securely (e.g., hashed & salted)?
