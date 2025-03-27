@@ -34,3 +34,8 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 - [ ] Are strong password policies enforced?
 - [ ] Is MFA (Multi-Factor Authentication) supported?
 - [ ] Are credentials stored securely (e.g., hashed & salted)?
+
+## 🔒 Authorization
+
+- [ ] Are role-based access controls implemented?
+- [ ] Is sensitive functionality protected from unauthorized users?
