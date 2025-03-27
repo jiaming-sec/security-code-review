@@ -56,3 +56,5 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 - [ ] Are third-party dependencies regularly updated and scanned?
 
 > Adapt this list based on your development stack and security needs.
+
+# 🧰 Tools and Resources for Secure Code Review
