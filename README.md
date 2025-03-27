@@ -8,3 +8,9 @@ This repository contains examples, checklists, and writeups for conducting secur
 - Running internal security bootcamps
 - Creating Capture The Flag (CTF) challenges
 - Practicing secure coding interviews
+
+## 🛠️ Tech Focus
+
+- **Languages:** Python, JavaScript, Java
+- **Focus Areas:** Input validation, authentication, session management, access control, cryptography, logging, error handling
+
