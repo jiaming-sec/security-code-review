@@ -58,3 +58,9 @@ This checklist is designed to guide manual secure code reviews and is aligned wi
 > Adapt this list based on your development stack and security needs.
 
 # 🧰 Tools and Resources for Secure Code Review
+
+## 🔧 Static Analysis Tools
+
+- **Semgrep** – Lightweight, powerful static analysis for many languages.
+- **Bandit** – Python-focused static analyzer to find common security issues.
+- **FindSecBugs** – Java static analysis plugin for SpotBugs.
