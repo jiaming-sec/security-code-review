@@ -18,3 +18,6 @@ Unsanitized user input is directly inserted into HTML, which can allow attackers
   - JavaScript: [vulnerable-code-samples/javascript/xss_example.html](../vulnerable-code-samples/javascript/xss_example.html)
   - Java (JSP): [vulnerable-code-samples/java/xss_example.jsp](../vulnerable-code-samples/java/xss_example.jsp)
 - **Secure:**
+  - Python: [secure-code-examples/python/xss_example.py](../secure-code-examples/python/xss_example.py)
+  - JavaScript: [secure-code-examples/javascript/xss_example.html](../secure-code-examples/javascript/xss_example.html)
+  - Java (JSP): [secure-code-examples/java/xss_example.jsp](../secure-code-examples/java/xss_example.jsp)
