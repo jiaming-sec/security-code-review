@@ -2,3 +2,7 @@
 
 This document outlines how to perform a secure code review focusing on common vulnerabilities and provides examples for both vulnerable and secure implementations.
 
+## 1. Cross-Site Scripting (XSS)
+
+**Vulnerability:**  
+Unsanitized user input is directly inserted into HTML, which can allow attackers to inject malicious scripts.
