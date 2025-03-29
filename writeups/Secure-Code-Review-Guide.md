@@ -26,3 +26,7 @@ Unsanitized user input is directly inserted into HTML, which can allow attackers
 
 **Vulnerability:**  
 Building SQL queries by concatenating user input can allow attackers to manipulate the database queries.
+
+**What to look for:**
+- SQL queries constructed using string concatenation.
+- Lack of parameterized queries or prepared statements.
