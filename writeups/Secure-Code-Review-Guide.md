@@ -48,3 +48,6 @@ Building SQL queries by concatenating user input can allow attackers to manipula
 
 - **Error Handling:**  
   Ensure that errors do not leak sensitive information.
+
+- **Logging:**  
+  Confirm that sensitive information is not written to logs.
