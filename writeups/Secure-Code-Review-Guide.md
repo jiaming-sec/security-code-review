@@ -30,3 +30,13 @@ Building SQL queries by concatenating user input can allow attackers to manipula
 **What to look for:**
 - SQL queries constructed using string concatenation.
 - Lack of parameterized queries or prepared statements.
+
+**Examples:**
+- **Vulnerable:**
+  - Python: [vulnerable-code-samples/python/sql_injection.py](../vulnerable-code-samples/python/sql_injection.py)
+  - JavaScript (Node.js): [vulnerable-code-samples/javascript/sql_injection_example.js](../vulnerable-code-samples/javascript/sql_injection_example.js)
+  - Java: [vulnerable-code-samples/java/SqlInjectionExample.java](../vulnerable-code-samples/java/SqlInjectionExample.java)
+- **Secure:**
+  - Python: [secure-code-examples/python/sql_injection.py](../secure-code-examples/python/sql_injection.py)
+  - JavaScript (Node.js): [secure-code-examples/javascript/sql_injection_example.js](../secure-code-examples/javascript/sql_injection_example.js)
+  - Java: [secure-code-examples/java/SqlInjectionExample.java](../secure-code-examples/java/SqlInjectionExample.java)
