@@ -51,3 +51,6 @@ Building SQL queries by concatenating user input can allow attackers to manipula
 
 - **Logging:**  
   Confirm that sensitive information is not written to logs.
+
+- **Automated Tools:**  
+  Utilize static code analysis tools (e.g., Semgrep, Bandit, FindSecBugs) to assist in identifying potential vulnerabilities.
