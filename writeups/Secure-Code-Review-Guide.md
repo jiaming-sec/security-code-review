@@ -40,3 +40,8 @@ Building SQL queries by concatenating user input can allow attackers to manipula
   - Python: [secure-code-examples/python/sql_injection.py](../secure-code-examples/python/sql_injection.py)
   - JavaScript (Node.js): [secure-code-examples/javascript/sql_injection_example.js](../secure-code-examples/javascript/sql_injection_example.js)
   - Java: [secure-code-examples/java/SqlInjectionExample.java](../secure-code-examples/java/SqlInjectionExample.java)
+
+## General Secure Code Review Practices
+
+- **Input Validation:**  
+  Always validate and sanitize external inputs.
