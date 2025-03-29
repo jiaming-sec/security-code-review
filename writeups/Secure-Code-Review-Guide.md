@@ -45,3 +45,6 @@ Building SQL queries by concatenating user input can allow attackers to manipula
 
 - **Input Validation:**  
   Always validate and sanitize external inputs.
+
+- **Error Handling:**  
+  Ensure that errors do not leak sensitive information.
