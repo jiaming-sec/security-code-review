@@ -21,3 +21,8 @@ Unsanitized user input is directly inserted into HTML, which can allow attackers
   - Python: [secure-code-examples/python/xss_example.py](../secure-code-examples/python/xss_example.py)
   - JavaScript: [secure-code-examples/javascript/xss_example.html](../secure-code-examples/javascript/xss_example.html)
   - Java (JSP): [secure-code-examples/java/xss_example.jsp](../secure-code-examples/java/xss_example.jsp)
+
+## 2. SQL Injection
+
+**Vulnerability:**  
+Building SQL queries by concatenating user input can allow attackers to manipulate the database queries.
